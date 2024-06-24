@@ -8,7 +8,7 @@ show_downloads: true # Fix spelling
 
 theme: jekyll-theme-minimal 
 
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
+#plugins:
+#  - jekyll-seo-tag # Add SEO plugin
 
 email: heeyeona1@gmail.com # Allow visitors to contact you
