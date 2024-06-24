@@ -1,11 +1,11 @@
 # HCI Researcher
 
 ## About me
-### Hi, my name is Heeyeon. My research focuses on Human-Computer Interaction (HCI) and Virtual Reality (VR).
+#### Hi, my name is Heeyeon. My research focuses on Human-Computer Interaction (HCI) and Virtual Reality (VR).
 
-### I seek to build rich user experiences in computing interfaces based on an understanding of how people interact with and engage with technology.
+#### I seek to build rich user experiences in computing interfaces based on an understanding of how people interact with and engage with technology.
 
-### I received my M.S. and B.S. in the Department of Convergence IT Engineering at Pohang University of Science and Technology (POSTECH), where I was advised by Prof. Seungmoon Choi in the [Interaction Lab](https://interaction.postech.ac.kr/).
+#### I received my M.S. and B.S. in the Department of Convergence IT Engineering at Pohang University of Science and Technology (POSTECH), where I was advised by Prof. Seungmoon Choi in the [Interaction Lab](https://interaction.postech.ac.kr/).
 
 ## Experience
 **Company Name** (Dates)   
