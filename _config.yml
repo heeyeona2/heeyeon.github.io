@@ -1,6 +1,6 @@
 title: Heeyeon Kim  # You can add your name here
 
-logo: myProfile.png # Use a relative path to logo image 
+logo: /assets/img/myProfileCircleSmall.png # Use a relative path to logo image 
 
 description: HCI Researcher # Fix hyphenation 
 
