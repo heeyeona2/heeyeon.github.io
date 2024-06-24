@@ -1,5 +1,4 @@
 # HCI Researcher
-# Your Name
 
 ## About me
 ### Hi, my name is Heeyeon. My research focuses on Human-Computer Interaction (HCI) and Virtual Reality (VR).
